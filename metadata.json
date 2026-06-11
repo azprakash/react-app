@@ -1,0 +1,6 @@
+{
+  "name": "Azbuynow - Delivery & E-Commerce",
+  "description": "A comprehensive, high-fidelity e-commerce and delivery platform for Azbuynow.com, featuring 100+ items across 10 categories, AWS Cognito auth, S3 bucket storage, DynamoDB, SES e-mail logs, checkout, and a full Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
